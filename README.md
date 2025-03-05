@@ -10,3 +10,5 @@ https://computationalstylistics.github.io/presentations/dhnb2025/#/text-analysis
 Optimism on digital humanities, computing
 
 Drama Corpora Hub: https://dracor.org/
+
+Tools - https://clsinfra.io/resources/d3-2-methods/
