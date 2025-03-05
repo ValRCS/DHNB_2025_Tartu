@@ -23,3 +23,13 @@ From: https://github.com/computationalstylistics/presentations/blob/master/dhnb2
 - "Distant reading" (Franco Moretti)
 - "Macroanalysis" (Matt Jockers)
 - "Riddle of literary quality" (Karina van Dalen-Oskam)
+
+- ## Long Papers
+
+- Further developing the Word Rain text visualisation technique in a digital history project
+
+Maria Skeppstedt1, Magnus Ahltorp2, Gijs Aangenendt1,3, Ylva Söderfeldt3
+
+1: Centre for Digital Humanities and Social Sciences Uppsala, Department of ALM, Uppsala University; 2: Language Council of Sweden, Institute for Language and Folklore; 3: Department of History of Science and Ideas, Uppsala University
+
+- https://www.actdisease.org/ - Word Frequency 
