@@ -130,9 +130,9 @@ TEI is not the central focus but is mentioned as part of the broader challenge o
 ### **Final Insights**
 The **ColaboFlow** platform aims to streamline **AI-augmented research workflows** in Digital Humanities, ensuring reproducibility, interoperability, and efficiency. It integrates structured **workflow management**, advanced **data visualization**, and **AI-powered augmentation** to tackle the complexities of DH research. The project underscores the importance of **balancing automation with human oversight**, ensuring **scientific rigor and transparency** in digital humanities experiments.
 
-### Multimodal pre-training > 
+### Multimodal pre-training > Uni-modal
 
-![Center for Humanities Computing](https://chc.au.dk/)
+[Center for Humanities Computing](https://chc.au.dk/)
 
 Multimodal pre-training of vision
 models yields better embeddings
@@ -149,5 +149,20 @@ Nielbo
 1
 1: Center for Humanities Computing,
 Aarhus University, Denmark; 2: Interacting Minds Centre, Aarhus University, Denmark
+
+Used WIkiArt 81,144
+
+Labels
+
+COnvNext
+Eva-02
+BeIt
+
+Some Distillation, some Vision, Some Vision+Language, differnet immage sizes
+
+EVA-02-CLIP
+EVA-02 indirect also performs best
+
+Multi-models confused by cATEGORY OVERLAP, which is fine.
 
 
