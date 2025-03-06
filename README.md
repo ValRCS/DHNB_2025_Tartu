@@ -196,6 +196,23 @@ Usage of train differs in BNC-2014 and in LLM usage
 
 #### Chat-GPT and structures
 
-Architects - lots of metaphors
+Architects - lots of metaphors, no Accountant metaphors, Actor, Carpenter
+
+#### Emergent Grammar
+
+Paul Hopper 1998
+
+#### Key Points
+Hoey-s Lexical Priming Theory ther is connections
+
+Firth's dictum "You shall know a word by its neighbor"
+
+LLMS seem too rigitd
+
+#### Evolution of priming
+
+Priming is never fixed - we adjust during our lifetimes.
+We create a joke by breaking priming..
+
 
 
