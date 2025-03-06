@@ -333,6 +333,73 @@ Latvian National Library (LNB); 3: Jāzeps
 Vītols Latvian Academy of Music; 4:
 University of Latvia, Faculty of Humanities
 
+### **Summary of the Presentation: Conceptual Challenges in Creating a Corpus of Latvian Music Texts from a Digitized Newspaper Archive**
+
+**Authors:** Dāvis Eņģeliss, Valdis Saulespurēns, Haralds Matulis, Anda Baklāne  
+**Conference:** DHNB 2025 – *Digital Dreams and Practices*, Tartu, Estonia  
+**Session:** *AI, Archives, and Digital Heritage* (March 5, Jakob Hurt’s Hall)  
+**Project:** Part of Latvia’s National Research Programme *Digital Resources of the Humanities*  
+
+---
+
+### **Key Points and Insights:**
+
+#### **1. Background and Objectives**
+- Previous research on Latvian music texts relied on **manual searches** in digitized periodicals or physical archives.
+- There was **no specialized corpus** of Latvian music texts, making large-scale research inefficient.
+- Goals of the project:
+  - **Highlight lesser-known sources**, including regional newspapers.
+  - **Promote the use of Digital Humanities (DH) tools** in musicology.
+  - **Increase accessibility** of LNB (National Library of Latvia) archives for researchers.
+  - **Speed up data acquisition workflows** for large-scale textual studies.
+
+---
+
+#### **2. Methodology**
+- Corpus built using **keyword probability analysis**, targeting words related to music with a **95% probability threshold**.
+- **Size:** ~6 million words extracted from the LNB archive.
+
+---
+
+#### **3. Defining "Music Texts"**
+- Simple keyword-based searches produced **false positives (FPs)**.
+  - Example: *"song of the siren"* appeared 2800+ times but often in **non-musical contexts**.
+  - Another issue: Figurative or metaphorical usage of music terms (e.g., *"leaders of imperialism call the tune"*).
+
+---
+
+#### **4. User Feedback**
+- Ethnomusicologists and sociologists **praised** access to diverse genres, even some initially classified as FPs (e.g., **placards, enumerations**).
+- Historical musicologists requested a **sub-corpus of evaluative texts** (e.g., **reviews, essays**).
+
+---
+
+#### **5. Text Genre Typology Using AI**
+- **Initial test** on music criticism classification using GPT-4 showed **100% accuracy**.
+- Next steps:
+  - Expand **genre typology** to **various categories** of music texts.
+  - Apply AI classification to **thousands of texts**.
+
+---
+
+#### **6. Usability and Accessibility**
+- **Solutions for accessing full texts:**
+  - NoSketch tool will include **links to original scans** in the LNB archive.
+  - Researchers can request **individual access to text files** if necessary.
+- **Corpus Scope:** Gradually shifting **from strict exclusion of false positives to broader inclusion** of diverse text types.
+
+---
+
+### **Takeaways**
+- The project represents a **significant improvement** in Latvian musicological research, transitioning from **manual searching** to an **AI-assisted digital corpus**.
+- The challenge of defining **what counts as a "music text"** remains complex, as keywords alone often produce **misleading results**.
+- AI-based text classification shows **promise for future large-scale DH projects**, especially in refining **genre-specific corpora**.
+
+### Questions from audience.
+
+1. What was used for music identity?
+2. What was documents about Soviet musicology.
+3. List of music related metaphors. - in dissertation
 
   
 
