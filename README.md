@@ -165,4 +165,37 @@ EVA-02 indirect also performs best
 
 Multi-models confused by cATEGORY OVERLAP, which is fine.
 
+### Large-Language-Model Tools and the Theory of Lexical Priming: convergence and divergence of concepts of language
+
+Michael Thomas Leonce Pace-Sigge
+University of Eastern Finland, Finland
+
+#### What is Lexical Priming
+
+Talking about 'hospital' you expect nurse or doctor
+
+Ross M. Quillian in 1960s so vs Chomsky innate approach
+
+
+Flooding some audience with some lie (like some Politicians do these days) primes us to accept related lies and this lie.
+
+#### linkage between LLM and LPT
+
+Story Grammar - Norvig 1992 !
+
+#### BNC corpus
+
+[BNC corpus](http://corpora.lancs.ac.uk/bnc2014/)
+
+BNC-2014 link btweeen potentate
+vs generated sample sentences with potentate by BARD and GPT  
+
+#### usage of TRAIN in BNC-2014 and in Chat-GPT and BARD
+
+Usage of train differs in BNC-2014 and in LLM usage
+
+#### Chat-GPT and structures
+
+Architects - lots of metaphors
+
 
