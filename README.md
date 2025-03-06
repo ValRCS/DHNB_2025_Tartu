@@ -308,6 +308,32 @@ yunting.xie@fek.uu.se
 Swedish Historical Patents -
 https://svenskahistoriskapatent.se/EN/
 
+## Afternoon Sesssion March 6th
+
+Session SP 05: Music, Film &
+Heritage Data
+Location: Aliise Moora Auditorium
+Chair: Haralds Matulis, Institute of
+Literature, Folklore and Art of the University
+of Latvia (ILFA), Latvia
+2:00pm - 2:20pm
+### Conceptual Challenges in Creating a Corpus of Latvian Music Texts from Digitized Newspaper Archive
+Dāvis Eņģelis
+1,3
+, Valdis Saulespurēns
+2
+,
+Haralds Matulis
+1,4
+, Anda Baklāne
+2
+1: Institute of Literature, Folklore and Art of
+the University of Latvia (ILFA), Latvia; 2:
+Latvian National Library (LNB); 3: Jāzeps
+Vītols Latvian Academy of Music; 4:
+University of Latvia, Faculty of Humanities
+
+
   
 
 
