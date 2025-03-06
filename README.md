@@ -251,6 +251,64 @@ Lexical Priming proposes that our knowledge of words is shaped by repeated encou
 - It challenges traditional views of language as a rule-based system, emphasizing **usage-based learning**.
 - It explains why learners and native speakers may use language differently (due to different priming histories).
 - It has applications in **language teaching**, **corpus linguistics**, **translation studies**, and **natural language processing**.
+- 
+### 10:30am - 11:00am Multimodal LLM-assisted Information Extraction from Historical Documents: The Case of Swedish Patent Cards (1945-1975) and ChatGPT
+
+Yunting Xie
+1
+, Matti La Mela
+2
+, Fredrik
+Tell1
+1: Department of Business Studies,
+Uppsala University; 2: Department of ALM,
+Uppsala University
+
+#### Challenges for Digitalize
+120000 digitalized cards
+275000 more to digitalize
+
+
+Mix of cards
+
+#### MLLM for extract info from patent cards
+
+#### Challenges
+
+*Digitized but not transcribed
+*Meta Data, agent, patentees,inventors location
+
+#### Solutions
+
+* Manual transcription 15 assistants part time 110,000 patents from 1885-1945
+
+#### Errror flags and confidence
+
+* no accurate confidence numbers
+* Can add additional flags for classification
+
+#### Results of transcription
+
+* Very High Accuranty for sytandard fields, application date, residence data
+* Under 50% for fee date which is uses strange stamnp
+* Some lazy generatee Cards
+
+about 0.85 USD for 100 cards
+
+#### Further WOrk
+
+* Currently Light Work
+* open-access models
+* fine-tuning
+* prompt-engineering
+
+SINGLE PROMPT for all 4 cards.
+
+
+  
+
+
+
 
 
 
