@@ -214,5 +214,44 @@ LLMS seem too rigitd
 Priming is never fixed - we adjust during our lifetimes.
 We create a joke by breaking priming..
 
+### **Theory of Lexical Priming**
+
+**Lexical Priming** is a theory in linguistics and psycholinguistics that explains how words and phrases are naturally associated with certain contexts through repeated exposure. The theory suggests that every time we encounter a word, it leaves a "trace" in our mental lexicon, influencing future language use.
+
+#### **Who Started It?**
+The theory of **Lexical Priming** was developed by **Michael Hoey**, a British linguist, and introduced in his 2005 book *Lexical Priming: A New Theory of Words and Language*.
+
+#### **Main Tenets of Lexical Priming**
+Lexical Priming proposes that our knowledge of words is shaped by repeated encounters in specific contexts, rather than by abstract rules or innate structures. The key ideas of the theory are:
+
+1. **Words are Primed by Context**  
+   - Every time we read, hear, or use a word, it is "primed" to appear in certain environments.
+   - This priming affects **collocation** (which words tend to co-occur), **grammatical structures**, and **semantic associations**.
+
+2. **Collocational Priming**  
+   - Words have tendencies to appear with specific other words (e.g., "utterly" is more likely to precede "ridiculous" than "happy").
+   - These tendencies are developed through repeated exposure.
+
+3. **Grammatical Priming**  
+   - Words are primed for specific grammatical structures (e.g., "suggest" is often followed by a that-clause, while "recommend" is frequently followed by a noun phrase or -ing form).
+
+4. **Semantic Priming**  
+   - Words are associated with particular meanings due to how they are encountered in real-world discourse.
+   - For example, "hospital" is often primed to be associated with "doctor," "nurse," and "patient."
+
+5. **Discourse Priming**  
+   - Words and phrases are primed for specific functions within discourse.
+   - For example, in news articles, "the incident" often refers back to a previously mentioned event.
+
+6. **Priming is Dynamic and Individualized**  
+   - No two speakers have identical priming because everyone has different language experiences.
+   - Our lexical priming changes over time as we are exposed to new linguistic environments.
+
+### **Implications of Lexical Priming**
+- It challenges traditional views of language as a rule-based system, emphasizing **usage-based learning**.
+- It explains why learners and native speakers may use language differently (due to different priming histories).
+- It has applications in **language teaching**, **corpus linguistics**, **translation studies**, and **natural language processing**.
+
+
 
 
